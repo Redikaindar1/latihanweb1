@@ -1,2 +1,3 @@
-# latihanweb1
-nama : redika indarwulan nim : 2205101144P
+# latihanModul1
+Nama : redika indarwulan 
+Nim : 2205101144P
